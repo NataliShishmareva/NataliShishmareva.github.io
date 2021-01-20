@@ -1,0 +1,14 @@
+body {
+background: #e5e5e5;
+text-align: center;
+font-size: 18px;
+}
+ul {
+
+}
+ul li {
+    margin-bottom: 25px;
+}
+a {
+    text-decoration: none;
+}
